@@ -2,4 +2,4 @@
 A solar system made using the Shader Editor app in GLSL
 
 ## Demo
-![demo](solar_system.gif)
+<img src="demo.gif" width="400">
